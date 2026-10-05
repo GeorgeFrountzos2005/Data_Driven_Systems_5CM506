@@ -11,5 +11,6 @@ Site for Vaccinations with Database and frontend
 
 D-I  -> report, logs, ERDs 
 D-II -> application
-D-II -> Testing Report
+D-II -> Testing Report, tests
+Testing Report
 Demo -> video
